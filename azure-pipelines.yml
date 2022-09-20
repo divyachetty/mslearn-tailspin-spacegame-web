@@ -3,7 +3,7 @@ trigger:
 
 pool:
  name: 'MyAgentpool'
-  demands:
+ demands:
   - npm
 
 variables:
